@@ -64,7 +64,7 @@ main .content .content-image img {
   width: 300px;
 }
  
-main aside {
+#home aside {
   position: fixed;
   inset-block: 0;
   inset-inline-end: 0;
